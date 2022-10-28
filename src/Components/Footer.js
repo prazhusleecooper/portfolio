@@ -27,7 +27,9 @@ const Footer = () => {
 							})
 						}
 					>
+
 						<MdArrowUpward />
+						
 					</button>	
 				</div>
 
